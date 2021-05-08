@@ -27,7 +27,7 @@
 // 5. Class Structure
 
 
-// Basing on our previous code, we were describing a person
+// Basing on our previous code, we were describing a person4
 
 // we'll create a class to act as a blueprint for other objects 
 
@@ -54,3 +54,5 @@ let person1 = new Person('John','Doe');
 console.log(person1.firstName);
 console.log(person1.lastName);
 console.log(person1.fullName());
+
+let person2 = new Person('Sewati','Brian');
